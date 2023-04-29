@@ -1,0 +1,4 @@
+/home/karan/spriNGboard/spriNGboard_week_08/test/regression/CMakeFiles/rebuild_cache.dir
+/home/karan/spriNGboard/spriNGboard_week_08/test/regression/CMakeFiles/edit_cache.dir
+/home/karan/spriNGboard/spriNGboard_week_08/test/regression/CMakeFiles/test__regression.dir
+/home/karan/spriNGboard/spriNGboard_week_08/test/regression/CMakeFiles/Trivia.dir

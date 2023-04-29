@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/karan/spriNGboard/spriNGboard_week_08/src/game_lib/Game.cpp
+Game.h
+/home/karan/spriNGboard/spriNGboard_week_08/src/game_lib/Game.h
+iostream
+-
+sstream
+-
+
+/home/karan/spriNGboard/spriNGboard_week_08/src/game_lib/Game.h
+list
+-
+string
+-
+vector
+-
+

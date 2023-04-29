@@ -45,9 +45,9 @@ Game::Game ()
 bool Game::add (string playerName)
 {
   players.push_back(playerName);
-  places[players.size()] = 0;
-  purses[players.size()] = 0;
-  inPenaltyBox[players.size()] = false;
+  places[players.size()-1] = 0;
+  purses[players.size()-1] = 0;
+  inPenaltyBox[players.size()-1] = false;
 
   cout << playerName << " was added" << endl;
   cout << "They are player number " << players.size() << endl;
